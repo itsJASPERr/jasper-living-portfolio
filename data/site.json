@@ -52,40 +52,219 @@
   },
   "projects": [
     {
+      "slug": "pueblo-magico",
       "name": "Pueblo Mágico",
       "category": "REGENERATIVE HOSPITALITY",
-      "subtitle": "Building a living place for community, culture and regeneration.",
+      "subtitle": "A living mountain-based hospitality, culture and regeneration project.",
       "role": "Digital products · operations · land",
       "symbol": "✳",
       "tone": "forest",
-      "link": "https://experienciamagico.com"
+      "liveUrl": "https://experienciamagico.com",
+      "status": "Live venue & website",
+      "summary": "A mountain retreat and community project combining regenerative hospitality, cultural events, land stewardship and digital operating systems.",
+      "contribution": "Product and systems strategy, AI-assisted digital engineering, project coordination and agroforestry fieldwork.",
+      "roadmap": [
+        {
+          "title": "Public website and guest communication",
+          "status": "done",
+          "detail": "Guest-facing public website, event and booking inquiries are available."
+        },
+        {
+          "title": "Integrated operational systems",
+          "status": "progress",
+          "detail": "Connect stock, reservations, commerce and team workflows into clear processes."
+        },
+        {
+          "title": "Validated operational adoption",
+          "status": "planned",
+          "detail": "Measure team usage, booking outcomes, cost reduction and guest experience."
+        }
+      ]
     },
     {
+      "slug": "magico-os",
       "name": "Mágico OS",
       "category": "AI & DIGITAL INFRASTRUCTURE",
-      "subtitle": "Connecting bookings, commerce and operations through modular digital systems.",
-      "role": "Product architecture · AI-assisted engineering",
+      "subtitle": "Modular software infrastructure for organizations with real-world operations.",
+      "role": "Product strategy · architecture · AI-assisted development",
       "symbol": "⌘",
       "tone": "clay",
-      "link": "https://github.com/itsJASPERr"
+      "status": "In development",
+      "summary": "An emerging ecosystem connecting bookings, commerce, identity and operational tasks while preserving each module's source of truth.",
+      "contribution": "Cross-product strategy, system boundaries, integration decisions, technical backlog and AI-assisted implementation.",
+      "roadmap": [
+        {
+          "title": "Map core products and interfaces",
+          "status": "done",
+          "detail": "Define Mágico Auth, Bookings, Commerce, shared UI and operational assistant boundaries."
+        },
+        {
+          "title": "Develop reusable product foundations",
+          "status": "progress",
+          "detail": "Shared authentication, cross-platform components, service integrations and modular deployment."
+        },
+        {
+          "title": "Pilot a separate organization installation",
+          "status": "planned",
+          "detail": "Validate data isolation, secure onboarding, operational use and support model."
+        },
+        {
+          "title": "Validate external commercial offering",
+          "status": "planned",
+          "detail": "Package pricing, customer support and repeatable deployments only after real pilot learning."
+        }
+      ]
     },
     {
+      "slug": "magico-bookings",
+      "name": "Mágico Bookings",
+      "category": "HOSPITALITY SOFTWARE",
+      "subtitle": "A configurable reservation platform for stays, experiences and retreats.",
+      "role": "Architecture · product leadership",
+      "symbol": "▦",
+      "tone": "forest",
+      "status": "Product foundation developed",
+      "summary": "A bookings solution designed to support multiple organizations with secure configuration, reservations, inventory and payments.",
+      "contribution": "Reservation architecture, acceptance criteria, system integration and commercialization planning.",
+      "roadmap": [
+        {
+          "title": "Reservation domain and test foundation",
+          "status": "done",
+          "detail": "Core reservation model and extensive test work documented in the engineering project."
+        },
+        {
+          "title": "Independent deployment and organization setup",
+          "status": "progress",
+          "detail": "Configure onboarding, branding and data isolation; complete production and payment acceptance."
+        },
+        {
+          "title": "External pilot validation",
+          "status": "planned",
+          "detail": "Run a real organization pilot and verify secure transactions and operations."
+        },
+        {
+          "title": "Product package and supported release",
+          "status": "planned",
+          "detail": "Document installation, upgrade and customer support processes."
+        }
+      ]
+    },
+    {
+      "slug": "raiz-sonora",
+      "name": "Raíz Sonora",
+      "category": "FESTIVAL · MUSIC & COMMUNITY",
+      "subtitle": "A music and nature gathering in the Sierras Grandes, October 31, 2026.",
+      "role": "Production · technology · music",
+      "symbol": "♫",
+      "tone": "lilac",
+      "liveUrl": "https://experienciamagico.com/festival-raiz-sonora",
+      "status": "Festival page launched",
+      "summary": "A live festival campaign and guest journey bringing together music, nature, community and regenerative hospitality.",
+      "contribution": "Production coordination, communications, digital launch and music within the organizing team.",
+      "roadmap": [
+        {
+          "title": "Festival landing and reservation inquiries",
+          "status": "done",
+          "detail": "Published artist information, access options and WhatsApp reservation pathways."
+        },
+        {
+          "title": "Confirm paid bookings and prepare operations",
+          "status": "progress",
+          "detail": "Track inquiries, confirmed payments and onsite readiness ahead of the event."
+        },
+        {
+          "title": "Deliver festival and document outcomes",
+          "status": "planned",
+          "detail": "Measure attendance, revenue, guest feedback and ecological contributions after October 31."
+        }
+      ]
+    },
+    {
+      "slug": "huerta",
+      "name": "Huerta & Food Forest",
+      "category": "REGENERATIVE LAND SYSTEMS",
+      "subtitle": "Cultivating resilient mountain food systems with field evidence and digital documentation.",
+      "role": "Agroforestry · field operations · data",
+      "symbol": "❋",
+      "tone": "sand",
+      "status": "Active fieldwork",
+      "summary": "A living food-production and agroforestry initiative bringing together garden design, propagation, observation and traceable records.",
+      "contribution": "Growing, mapping, documenting, crop planning and integration with task and data systems.",
+      "roadmap": [
+        {
+          "title": "Garden planning and sowing system",
+          "status": "done",
+          "detail": "Initial bed mapping, protected propagation and direct sowing documented."
+        },
+        {
+          "title": "Field audit and mapping validation",
+          "status": "progress",
+          "detail": "Reconcile photographic evidence, plant records and actual bed placement."
+        },
+        {
+          "title": "Seasonal harvest and ecological metrics",
+          "status": "planned",
+          "detail": "Track yields, soil health, water inputs and crop outcomes against the original plan."
+        }
+      ]
+    },
+    {
+      "slug": "earth-bridge-alliance",
       "name": "Earth Bridge Alliance",
       "category": "CROSS-CULTURAL IMPACT",
-      "subtitle": "Supporting regenerative initiatives through collaboration across communities.",
-      "role": "Strategy · nonprofit development",
+      "subtitle": "Supporting community-led regenerative initiatives across cultures.",
+      "role": "Nonprofit setup · strategy · collaboration",
       "symbol": "◎",
       "tone": "sand",
-      "link": ""
+      "status": "Organizational development",
+      "summary": "An emerging nonprofit structure to support place-based regeneration and cross-cultural project partnerships.",
+      "contribution": "Organization development, documentation, strategy and partnership coordination.",
+      "roadmap": [
+        {
+          "title": "Define purpose and organizational documents",
+          "status": "done",
+          "detail": "Founding strategy and organizational documentation prepared."
+        },
+        {
+          "title": "Complete administrative setup and partnerships",
+          "status": "progress",
+          "detail": "Registration and partner coordination require verification before representing them as complete."
+        },
+        {
+          "title": "Launch a documented pilot collaboration",
+          "status": "planned",
+          "detail": "Publish transparent project goals, milestones and measurable outcomes."
+        }
+      ]
     },
     {
+      "slug": "living-practices",
       "name": "Living Practices",
-      "category": "MUSIC, CRAFT & CONNECTION",
+      "category": "MUSIC · CRAFT · CONNECTION",
       "subtitle": "Medicine music, ceremonial artifacts, sharing circles and conscious integration.",
       "role": "Creative practice · facilitation",
-      "symbol": "❋",
+      "symbol": "✺",
       "tone": "lilac",
-      "link": ""
+      "status": "Ongoing practice",
+      "summary": "Human-centered creative practices exploring expression, connection and conscious development.",
+      "contribution": "Music, instrument crafting, circles and integration-oriented coaching.",
+      "roadmap": [
+        {
+          "title": "Develop the core practice",
+          "status": "done",
+          "detail": "Medicine music, ceremonial crafting and facilitated connection are established areas of work."
+        },
+        {
+          "title": "Document public offerings",
+          "status": "progress",
+          "detail": "Clarify practical formats, audience, boundaries and contact routes."
+        },
+        {
+          "title": "Publish selected sessions and stories",
+          "status": "planned",
+          "detail": "Share examples and reflections with consent and appropriate care."
+        }
+      ]
     }
   ],
   "journal": [
