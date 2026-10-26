@@ -1,0 +1,126 @@
+{
+  "contactEmail": "",
+  "week": {
+    "date": "OCT 19–25, 2026",
+    "title": "From engineering to real-world launch.",
+    "summary": "A festival launch, modular software foundations, operational integrations and regenerative field research.",
+    "metrics": [
+      {
+        "value": "8",
+        "label": "Pull requests merged",
+        "note": "Portfolio repositories"
+      },
+      {
+        "value": "5",
+        "label": "Active repositories",
+        "note": "Engineering activity"
+      },
+      {
+        "value": "54",
+        "label": "Huerta media reviewed",
+        "note": "42 photos · 12 videos"
+      },
+      {
+        "value": "1",
+        "label": "Festival launch",
+        "note": "Commercial campaign live"
+      }
+    ],
+    "highlights": [
+      {
+        "title": "Raíz Sonora",
+        "text": "Festival website and inquiry flow deployed",
+        "status": "Launched"
+      },
+      {
+        "title": "Mágico Bookings",
+        "text": "Independent product and external-pilot architecture advanced",
+        "status": "Building"
+      },
+      {
+        "title": "Mágico Operaciones",
+        "text": "Stock adapter reliability and access model improved",
+        "status": "Testing"
+      },
+      {
+        "title": "Huerta",
+        "text": "54 media files audited; map corrections proposed",
+        "status": "Documented"
+      }
+    ],
+    "reflection": "The real measure is not how much we build, but how reliably our work reaches people and creates positive change."
+  },
+  "projects": [
+    {
+      "name": "Pueblo Mágico",
+      "category": "REGENERATIVE HOSPITALITY",
+      "subtitle": "Building a living place for community, culture and regeneration.",
+      "role": "Digital products · operations · land",
+      "symbol": "✳",
+      "tone": "forest",
+      "link": "https://experienciamagico.com"
+    },
+    {
+      "name": "Mágico OS",
+      "category": "AI & DIGITAL INFRASTRUCTURE",
+      "subtitle": "Connecting bookings, commerce and operations through modular digital systems.",
+      "role": "Product architecture · AI-assisted engineering",
+      "symbol": "⌘",
+      "tone": "clay",
+      "link": "https://github.com/itsJASPERr"
+    },
+    {
+      "name": "Earth Bridge Alliance",
+      "category": "CROSS-CULTURAL IMPACT",
+      "subtitle": "Supporting regenerative initiatives through collaboration across communities.",
+      "role": "Strategy · nonprofit development",
+      "symbol": "◎",
+      "tone": "sand",
+      "link": ""
+    },
+    {
+      "name": "Living Practices",
+      "category": "MUSIC, CRAFT & CONNECTION",
+      "subtitle": "Medicine music, ceremonial artifacts, sharing circles and conscious integration.",
+      "role": "Creative practice · facilitation",
+      "symbol": "❋",
+      "tone": "lilac",
+      "link": ""
+    }
+  ],
+  "journal": [
+    {
+      "date": "OCT 19–25, 2026",
+      "title": "From systems development to commercial launches",
+      "description": "Festival campaign launched, reservation product advanced and regenerative field evidence audited.",
+      "tags": [
+        "Product launch",
+        "Integration",
+        "Regeneration"
+      ],
+      "outcome": "Website deployed; production adoption and revenue still to verify."
+    },
+    {
+      "date": "OCT 12–18, 2026",
+      "title": "Designing products that can travel",
+      "description": "Supplier finance, cross-platform component libraries and an agricultural data foundation.",
+      "tags": [
+        "Commerce",
+        "Architecture",
+        "Field data"
+      ],
+      "outcome": "Engineering milestones completed; external customer validation pending."
+    },
+    {
+      "date": "OCT 5–11, 2026",
+      "title": "Laying the foundations for Mágico OS",
+      "description": "Reservation workflows, an AI operational assistant and shared platform architecture.",
+      "tags": [
+        "AI",
+        "Operations",
+        "Systems"
+      ],
+      "outcome": "Technical foundations advanced; real-world pilot adoption next."
+    }
+  ]
+}
