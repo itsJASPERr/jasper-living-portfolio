@@ -1,0 +1,305 @@
+{
+  "contactEmail": "itsjasperr@gmail.com",
+  "week": {
+    "date": "19–25 OCT 2026",
+    "title": "De la ingeniería al lanzamiento real.",
+    "summary": "Un festival en lanzamiento, bases de software modular, integraciones operativas e investigación de campo regenerativa.",
+    "metrics": [
+      {
+        "value": "8",
+        "label": "PR integrados",
+        "note": "Repositorios del conjunto de proyectos"
+      },
+      {
+        "value": "5",
+        "label": "Repositorios activos",
+        "note": "Actividad de ingeniería"
+      },
+      {
+        "value": "54",
+        "label": "Archivos de huerta revisados",
+        "note": "42 fotos · 12 videos"
+      },
+      {
+        "value": "1",
+        "label": "Festival lanzado",
+        "note": "Campaña comercial activa"
+      }
+    ],
+    "highlights": [
+      {
+        "title": "Raíz Sonora",
+        "text": "Sitio del festival y flujo de consultas publicados",
+        "status": "Lanzado"
+      },
+      {
+        "title": "Mágico Bookings",
+        "text": "Avanzó la arquitectura independiente y para pilotos externos",
+        "status": "En desarrollo"
+      },
+      {
+        "title": "Mágico Operaciones",
+        "text": "Mejoras en confiabilidad del stock y control de acceso",
+        "status": "En pruebas"
+      },
+      {
+        "title": "Huerta",
+        "text": "54 archivos visuales auditados; correcciones cartográficas propuestas",
+        "status": "Documentado"
+      }
+    ],
+    "reflection": "La verdadera medida no es cuánto construimos, sino cuán confiablemente nuestro trabajo llega a las personas y genera cambios positivos."
+  },
+  "projects": [
+    {
+      "slug": "pueblo-magico",
+      "name": "Pueblo Mágico",
+      "category": "HOSPITALIDAD REGENERATIVA",
+      "subtitle": "Un proyecto vivo de hospitalidad, cultura y regeneración en las montañas.",
+      "role": "Productos digitales · operaciones · territorio",
+      "symbol": "✳",
+      "tone": "forest",
+      "liveUrl": "https://experienciamagico.com",
+      "status": "Espacio y sitio web activos",
+      "summary": "Refugio y proyecto comunitario de montaña que reúne hospitalidad regenerativa, eventos culturales, cuidado del territorio y sistemas digitales.",
+      "contribution": "Estrategia de productos y sistemas, ingeniería asistida por IA, coordinación de proyectos y trabajo de campo agroforestal.",
+      "roadmap": [
+        {
+          "title": "Sitio público y comunicación con huéspedes",
+          "status": "done",
+          "detail": "El sitio web público, los eventos y los canales de consulta de reservas están disponibles."
+        },
+        {
+          "title": "Sistemas operativos integrados",
+          "status": "progress",
+          "detail": "Conectar inventario, reservas, comercio y flujos del equipo en procesos claros."
+        },
+        {
+          "title": "Adopción operativa validada",
+          "status": "planned",
+          "detail": "Medir el uso del equipo, reservas, reducción de costos y experiencia de huéspedes."
+        }
+      ]
+    },
+    {
+      "slug": "magico-os",
+      "name": "Mágico OS",
+      "category": "IA E INFRAESTRUCTURA DIGITAL",
+      "subtitle": "Infraestructura de software modular para organizaciones con operaciones reales.",
+      "role": "Estrategia de producto · arquitectura · desarrollo asistido por IA",
+      "symbol": "⌘",
+      "tone": "clay",
+      "status": "En desarrollo",
+      "summary": "Ecosistema emergente que integra reservas, comercio, identidad y tareas operativas, respetando la fuente de datos de cada módulo.",
+      "contribution": "Estrategia entre productos, límites entre sistemas, decisiones de integración, planificación técnica e implementación asistida por IA.",
+      "roadmap": [
+        {
+          "title": "Mapear los productos e interfaces principales",
+          "status": "done",
+          "detail": "Definir límites entre Mágico Auth, Bookings, Commerce, UI compartida y el asistente operativo."
+        },
+        {
+          "title": "Desarrollar bases de producto reutilizables",
+          "status": "progress",
+          "detail": "Autenticación compartida, componentes multiplataforma, integraciones y despliegue modular."
+        },
+        {
+          "title": "Piloto en otra organización",
+          "status": "planned",
+          "detail": "Validar aislamiento de datos, incorporación segura, uso operativo y modelo de soporte."
+        },
+        {
+          "title": "Validar una oferta comercial externa",
+          "status": "planned",
+          "detail": "Definir precios, soporte y despliegues repetibles luego de aprender del piloto real."
+        }
+      ]
+    },
+    {
+      "slug": "magico-bookings",
+      "name": "Mágico Bookings",
+      "category": "SOFTWARE PARA HOSPITALIDAD",
+      "subtitle": "Una plataforma de reservas configurable para estadías, experiencias y retiros.",
+      "role": "Arquitectura · liderazgo de producto",
+      "symbol": "▦",
+      "tone": "forest",
+      "status": "Base del producto desarrollada",
+      "summary": "Solución de reservas para múltiples organizaciones con configuración segura, reservas, inventario y pagos.",
+      "contribution": "Arquitectura de reservas, criterios de aceptación, integración de sistemas y planificación comercial.",
+      "roadmap": [
+        {
+          "title": "Dominio de reservas y base de pruebas",
+          "status": "done",
+          "detail": "Modelo central de reservas y trabajo de pruebas documentados en el proyecto de ingeniería."
+        },
+        {
+          "title": "Despliegue independiente y configuración organizacional",
+          "status": "progress",
+          "detail": "Configurar incorporación, identidad visual y aislamiento de datos; completar aceptación de producción y pagos."
+        },
+        {
+          "title": "Validación de piloto externo",
+          "status": "planned",
+          "detail": "Ejecutar un piloto real y verificar transacciones y operaciones seguras."
+        },
+        {
+          "title": "Producto empaquetado y lanzamiento con soporte",
+          "status": "planned",
+          "detail": "Documentar instalación, actualizaciones y soporte a clientes."
+        }
+      ]
+    },
+    {
+      "slug": "raiz-sonora",
+      "name": "Raíz Sonora",
+      "category": "FESTIVAL · MÚSICA Y COMUNIDAD",
+      "subtitle": "Encuentro de música y naturaleza en las Sierras Grandes, el 31 de octubre de 2026.",
+      "role": "Producción · tecnología · música",
+      "symbol": "♫",
+      "tone": "lilac",
+      "liveUrl": "https://experienciamagico.com/festival-raiz-sonora",
+      "status": "Página del festival publicada",
+      "summary": "Campaña de festival y recorrido de huéspedes en funcionamiento que reúnen música, naturaleza, comunidad y hospitalidad regenerativa.",
+      "contribution": "Coordinación de producción, comunicación, lanzamiento digital y música dentro del equipo organizador.",
+      "roadmap": [
+        {
+          "title": "Landing del festival y consultas de reservas",
+          "status": "done",
+          "detail": "Información de artistas, modalidades de acceso y vías de reserva por WhatsApp publicadas."
+        },
+        {
+          "title": "Confirmar reservas pagas y preparar operaciones",
+          "status": "progress",
+          "detail": "Registrar consultas, pagos confirmados y preparación del lugar antes del evento."
+        },
+        {
+          "title": "Realizar el festival y documentar resultados",
+          "status": "planned",
+          "detail": "Medir asistencia, ingresos, opiniones de participantes y aportes ecológicos después del 31 de octubre."
+        }
+      ]
+    },
+    {
+      "slug": "huerta",
+      "name": "Huerta y Bosque Comestible",
+      "category": "SISTEMAS REGENERATIVOS DEL TERRITORIO",
+      "subtitle": "Cultivar sistemas alimentarios resilientes en la montaña con evidencia de campo y documentación digital.",
+      "role": "Agroforestería · campo · datos",
+      "symbol": "❋",
+      "tone": "sand",
+      "status": "Trabajo de campo activo",
+      "summary": "Iniciativa viva de producción de alimentos y agroforestería que combina diseño, propagación, observación y registros trazables.",
+      "contribution": "Cultivo, mapeo, documentación, planificación de siembras e integración con sistemas de tareas y datos.",
+      "roadmap": [
+        {
+          "title": "Diseño de la huerta y sistema de siembras",
+          "status": "done",
+          "detail": "Mapeo inicial de canteros, almácigos y siembra directa documentados."
+        },
+        {
+          "title": "Auditoría de campo y validación del mapa",
+          "status": "progress",
+          "detail": "Conciliar evidencia fotográfica, registros de plantas y ubicación real de canteros."
+        },
+        {
+          "title": "Cosechas estacionales y métricas ecológicas",
+          "status": "planned",
+          "detail": "Medir rendimientos, salud del suelo, uso del agua y cultivos frente al plan original."
+        }
+      ]
+    },
+    {
+      "slug": "earth-bridge-alliance",
+      "name": "Earth Bridge Alliance",
+      "category": "IMPACTO INTERCULTURAL",
+      "subtitle": "Apoyo a iniciativas regenerativas comunitarias a través de diferentes culturas.",
+      "role": "Organización sin fines de lucro · estrategia · colaboración",
+      "symbol": "◎",
+      "tone": "sand",
+      "status": "Desarrollo organizacional",
+      "summary": "Estructura asociativa emergente para impulsar regeneración territorial y alianzas interculturales.",
+      "contribution": "Desarrollo organizacional, documentación, estrategia y coordinación de alianzas.",
+      "roadmap": [
+        {
+          "title": "Definir propósito y documentos fundacionales",
+          "status": "done",
+          "detail": "Se preparó la estrategia fundacional y la documentación organizacional."
+        },
+        {
+          "title": "Completar trámites y alianzas",
+          "status": "progress",
+          "detail": "Verificar el registro y la coordinación con socios antes de declararlos completados."
+        },
+        {
+          "title": "Lanzar un piloto colaborativo documentado",
+          "status": "planned",
+          "detail": "Publicar objetivos, hitos y resultados medibles con transparencia."
+        }
+      ]
+    },
+    {
+      "slug": "living-practices",
+      "name": "Prácticas Vivas",
+      "category": "MÚSICA · ARTESANÍA · CONEXIÓN",
+      "subtitle": "Música medicina, objetos ceremoniales, círculos de encuentro e integración consciente.",
+      "role": "Práctica creativa · facilitación",
+      "symbol": "✺",
+      "tone": "lilac",
+      "status": "Práctica continua",
+      "summary": "Prácticas creativas centradas en las personas para explorar expresión, conexión y desarrollo consciente.",
+      "contribution": "Música, construcción de instrumentos, círculos y acompañamiento de integración.",
+      "roadmap": [
+        {
+          "title": "Desarrollar la práctica central",
+          "status": "done",
+          "detail": "La música medicina, la artesanía ceremonial y los encuentros facilitados son áreas de trabajo establecidas."
+        },
+        {
+          "title": "Documentar propuestas públicas",
+          "status": "progress",
+          "detail": "Aclarar formatos, destinatarios, límites y vías de contacto."
+        },
+        {
+          "title": "Compartir encuentros y relatos seleccionados",
+          "status": "planned",
+          "detail": "Publicar ejemplos y reflexiones con consentimiento y cuidado."
+        }
+      ]
+    }
+  ],
+  "journal": [
+    {
+      "date": "19–25 OCT 2026",
+      "title": "Del desarrollo de sistemas al lanzamiento comercial",
+      "description": "Campaña del festival publicada, producto de reservas avanzado y evidencia regenerativa de campo auditada.",
+      "tags": [
+        "Lanzamiento",
+        "Integración",
+        "Regeneración"
+      ],
+      "outcome": "Sitio desplegado; adopción productiva e ingresos aún por verificar."
+    },
+    {
+      "date": "12–18 OCT 2026",
+      "title": "Diseñando productos que pueden crecer",
+      "description": "Finanzas de proveedores, bibliotecas de interfaz multiplataforma y base de datos para la huerta.",
+      "tags": [
+        "Comercio",
+        "Arquitectura",
+        "Datos de campo"
+      ],
+      "outcome": "Hitos de ingeniería completados; pendiente validación con clientes externos."
+    },
+    {
+      "date": "5–11 OCT 2026",
+      "title": "Sentando las bases de Mágico OS",
+      "description": "Flujos de reservas, asistente operativo con IA y arquitectura de plataforma compartida.",
+      "tags": [
+        "IA",
+        "Operaciones",
+        "Sistemas"
+      ],
+      "outcome": "Bases técnicas avanzadas; el próximo paso es la adopción en pilotos reales."
+    }
+  ]
+}
