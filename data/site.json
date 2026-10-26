@@ -79,7 +79,9 @@
           "status": "planned",
           "detail": "Measure team usage, booking outcomes, cost reduction and guest experience."
         }
-      ]
+      ],
+      "image": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=1200&q=82",
+      "imageAlt": "Mountain landscape and green hills at golden hour"
     },
     {
       "slug": "magico-os",
@@ -113,7 +115,9 @@
           "status": "planned",
           "detail": "Package pricing, customer support and repeatable deployments only after real pilot learning."
         }
-      ]
+      ],
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1200&q=82",
+      "imageAlt": "Digital collaboration and technology on a work desk"
     },
     {
       "slug": "magico-bookings",
@@ -147,7 +151,9 @@
           "status": "planned",
           "detail": "Document installation, upgrade and customer support processes."
         }
-      ]
+      ],
+      "image": "https://images.unsplash.com/photo-1445019980597-93fa8acb246c?auto=format&fit=crop&w=1200&q=82",
+      "imageAlt": "Inviting hospitality accommodation"
     },
     {
       "slug": "raiz-sonora",
@@ -177,7 +183,9 @@
           "status": "planned",
           "detail": "Measure attendance, revenue, guest feedback and ecological contributions after October 31."
         }
-      ]
+      ],
+      "image": "https://images.unsplash.com/photo-1459749411175-04bf5292ceea?auto=format&fit=crop&w=1200&q=82",
+      "imageAlt": "Live music event and shared experience"
     },
     {
       "slug": "huerta",
@@ -206,7 +214,9 @@
           "status": "planned",
           "detail": "Track yields, soil health, water inputs and crop outcomes against the original plan."
         }
-      ]
+      ],
+      "image": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?auto=format&fit=crop&w=1200&q=82",
+      "imageAlt": "Green plants growing in fertile soil"
     },
     {
       "slug": "earth-bridge-alliance",
@@ -235,7 +245,9 @@
           "status": "planned",
           "detail": "Publish transparent project goals, milestones and measurable outcomes."
         }
-      ]
+      ],
+      "image": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?auto=format&fit=crop&w=1200&q=82",
+      "imageAlt": "People spending time together outdoors"
     },
     {
       "slug": "living-practices",
@@ -264,7 +276,9 @@
           "status": "planned",
           "detail": "Share examples and reflections with consent and appropriate care."
         }
-      ]
+      ],
+      "image": "https://images.unsplash.com/photo-1516280440614-37939bbacd81?auto=format&fit=crop&w=1200&q=82",
+      "imageAlt": "Music as an expression of human connection"
     }
   ],
   "journal": [
