@@ -2,8 +2,8 @@
   "contactEmail": "itsjasperr@gmail.com",
   "week": {
     "date": "19–25 OCT 2026",
-    "title": "De la ingeniería al lanzamiento real.",
-    "summary": "Un festival en lanzamiento, bases de software modular, integraciones operativas e investigación de campo regenerativa.",
+    "title": "Una semana de crear, cultivar y encontrarnos.",
+    "summary": "Un encuentro musical toma forma, las herramientas digitales se vuelven más útiles y la huerta de montaña sigue enseñándonos.",
     "metrics": [
       {
         "value": "8",
@@ -29,26 +29,26 @@
     "highlights": [
       {
         "title": "Raíz Sonora",
-        "text": "Sitio del festival y flujo de consultas publicados",
-        "status": "Lanzado"
+        "text": "Reuniendo música, comunidad y naturaleza en un nuevo encuentro.",
+        "status": "Tomando forma"
       },
       {
         "title": "Mágico Bookings",
-        "text": "Avanzó la arquitectura independiente y para pilotos externos",
+        "text": "Facilitando que los espacios de encuentro reciban a las personas.",
         "status": "En desarrollo"
       },
       {
-        "title": "Mágico Operaciones",
-        "text": "Mejoras en confiabilidad del stock y control de acceso",
-        "status": "En pruebas"
+        "title": "Pueblo Mágico",
+        "text": "Conectando hospitalidad, experiencias creativas y vida regenerativa.",
+        "status": "Creciendo"
       },
       {
-        "title": "Huerta",
-        "text": "54 archivos visuales auditados; correcciones cartográficas propuestas",
-        "status": "Documentado"
+        "title": "Huerta de montaña",
+        "text": "Observando, sembrando y aprendiendo de la tierra en Los Gigantes.",
+        "status": "En práctica"
       }
     ],
-    "reflection": "La verdadera medida no es cuánto construimos, sino cuán confiablemente nuestro trabajo llega a las personas y genera cambios positivos."
+    "reflection": "Mundos diferentes, un mismo hilo: crear condiciones para que las personas, las ideas y los territorios florezcan."
   },
   "projects": [
     {
