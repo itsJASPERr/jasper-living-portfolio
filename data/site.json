@@ -2,8 +2,8 @@
   "contactEmail": "itsjasperr@gmail.com",
   "week": {
     "date": "OCT 19–25, 2026",
-    "title": "From engineering to real-world launch.",
-    "summary": "A festival launch, modular software foundations, operational integrations and regenerative field research.",
+    "title": "Moments from a week of building, growing and gathering.",
+    "summary": "A music gathering is taking shape, digital tools are becoming more useful, and the mountain garden continues to teach us.",
     "metrics": [
       {
         "value": "8",
@@ -29,26 +29,26 @@
     "highlights": [
       {
         "title": "Raíz Sonora",
-        "text": "Festival website and inquiry flow deployed",
-        "status": "Launched"
+        "text": "Bringing music, community and nature together through a new gathering.",
+        "status": "Coming together"
       },
       {
         "title": "Mágico Bookings",
-        "text": "Independent product and external-pilot architecture advanced",
-        "status": "Building"
+        "text": "Making it easier for places of connection to welcome people.",
+        "status": "In development"
       },
       {
-        "title": "Mágico Operaciones",
-        "text": "Stock adapter reliability and access model improved",
-        "status": "Testing"
+        "title": "Pueblo Mágico",
+        "text": "Connecting hospitality, creative experiences and regenerative living.",
+        "status": "Growing"
       },
       {
-        "title": "Huerta",
-        "text": "54 media files audited; map corrections proposed",
-        "status": "Documented"
+        "title": "Mountain garden",
+        "text": "Observing, planting and learning from the land in Los Gigantes.",
+        "status": "In practice"
       }
     ],
-    "reflection": "The real measure is not how much we build, but how reliably our work reaches people and creates positive change."
+    "reflection": "Different worlds, one thread: creating the conditions for people, ideas and places to flourish."
   },
   "projects": [
     {
