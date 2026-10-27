@@ -81,7 +81,10 @@
         }
       ],
       "image": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=1200&q=82",
-      "imageAlt": "Mountain landscape and green hills at golden hour"
+      "imageAlt": "Mountain landscape and green hills at golden hour",
+      "vision": "Crear un lugar de montaña donde hospitalidad, cultura y regeneración se fortalezcan mutuamente.",
+      "evidence": "Sitio público y consultas de huéspedes disponibles; trabajo de huerta e integraciones operativas documentadas.",
+      "impact": "Un espacio concreto para la colaboración y experiencias vinculadas a la naturaleza. Falta medir adopción, ingresos y resultados ecológicos."
     },
     {
       "slug": "magico-os",
@@ -117,7 +120,10 @@
         }
       ],
       "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1200&q=82",
-      "imageAlt": "Digital collaboration and technology on a work desk"
+      "imageAlt": "Digital collaboration and technology on a work desk",
+      "vision": "Acercar el software operativo a organizaciones pequeñas con propósito.",
+      "evidence": "Hay arquitectura y componentes compartidos para reservas, comercio, identidad y operaciones; los despliegues siguen en curso.",
+      "impact": "Una base para trabajar con menos fragmentación. Aún deben validarse la instalación externa y los beneficios medibles."
     },
     {
       "slug": "magico-bookings",
@@ -153,7 +159,10 @@
         }
       ],
       "image": "https://images.unsplash.com/photo-1445019980597-93fa8acb246c?auto=format&fit=crop&w=1200&q=82",
-      "imageAlt": "Inviting hospitality accommodation"
+      "imageAlt": "Inviting hospitality accommodation",
+      "vision": "Ayudar a espacios de hospitalidad y retiros a recibir huéspedes sin fricciones innecesarias.",
+      "evidence": "Avanzaron funciones de reserva y pruebas; siguen pendientes la aprobación productiva y pruebas externas.",
+      "impact": "Podría reducir trabajo manual. No se declara adopción paga externa."
     },
     {
       "slug": "raiz-sonora",
@@ -185,7 +194,10 @@
         }
       ],
       "image": "https://images.unsplash.com/photo-1459749411175-04bf5292ceea?auto=format&fit=crop&w=1200&q=82",
-      "imageAlt": "Live music event and shared experience"
+      "imageAlt": "Live music event and shared experience",
+      "vision": "Reunir personas a través de la música y la naturaleza en las Sierras Grandes.",
+      "evidence": "Se publicó la página del festival, información del programa y consultas por WhatsApp antes del 31 de octubre.",
+      "impact": "Una invitación concreta al encuentro. La asistencia y los resultados financieros deben registrarse después del evento."
     },
     {
       "slug": "huerta",
@@ -216,7 +228,10 @@
         }
       ],
       "image": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?auto=format&fit=crop&w=1200&q=82",
-      "imageAlt": "Green plants growing in fertile soil"
+      "imageAlt": "Green plants growing in fertile soil",
+      "vision": "Aprender del territorio mientras cultivamos un sistema alimentario de montaña resiliente.",
+      "evidence": "Mapas de siembra, almácigos y auditoría de 54 archivos de foto/video aportan evidencia trazable.",
+      "impact": "Permite decidir mejor en campo; aún faltan métricas de cosecha, agua y suelo."
     },
     {
       "slug": "earth-bridge-alliance",
@@ -247,7 +262,10 @@
         }
       ],
       "image": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?auto=format&fit=crop&w=1200&q=82",
-      "imageAlt": "People spending time together outdoors"
+      "imageAlt": "People spending time together outdoors",
+      "vision": "Crear puentes duraderos entre comunidades e iniciativas regenerativas.",
+      "evidence": "Se prepararon documentos fundacionales y el marco organizativo; falta verificar el avance administrativo.",
+      "impact": "Una posible estructura de colaboración intercultural responsable, pendiente de pilotos demostrados."
     },
     {
       "slug": "living-practices",
@@ -278,7 +296,10 @@
         }
       ],
       "image": "https://images.unsplash.com/photo-1516280440614-37939bbacd81?auto=format&fit=crop&w=1200&q=82",
-      "imageAlt": "Music as an expression of human connection"
+      "imageAlt": "Music as an expression of human connection",
+      "vision": "Abrir espacios para la creatividad, la escucha, la exploración personal y la presencia compartida.",
+      "evidence": "La música medicina, la creación de instrumentos y los círculos forman parte de una práctica continua.",
+      "impact": "El impacto es principalmente cualitativo; futuros relatos deben respetar la privacidad y el consentimiento."
     }
   ],
   "journal": [
@@ -291,7 +312,8 @@
         "Integración",
         "Regeneración"
       ],
-      "outcome": "Sitio desplegado; adopción productiva e ingresos aún por verificar."
+      "outcome": "Sitio desplegado; adopción productiva e ingresos aún por verificar.",
+      "reflection": "¿Qué hace falta para que una idea salga de la pantalla y se convierta en un encuentro real?"
     },
     {
       "date": "12–18 OCT 2026",
@@ -302,7 +324,8 @@
         "Arquitectura",
         "Datos de campo"
       ],
-      "outcome": "Hitos de ingeniería completados; pendiente validación con clientes externos."
+      "outcome": "Hitos de ingeniería completados; pendiente validación con clientes externos.",
+      "reflection": "¿Puede una herramienta creada para una comunidad ayudar a otra sin perder su sentido humano?"
     },
     {
       "date": "5–11 OCT 2026",
@@ -313,7 +336,8 @@
         "Operaciones",
         "Sistemas"
       ],
-      "outcome": "Bases técnicas avanzadas; el próximo paso es la adopción en pilotos reales."
+      "outcome": "Bases técnicas avanzadas; el próximo paso es la adopción en pilotos reales.",
+      "reflection": "Un buen sistema no reemplaza los vínculos. Les da espacio."
     }
   ]
 }
