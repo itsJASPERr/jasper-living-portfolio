@@ -35,3 +35,11 @@
 
 /* Human invitation at the end of each evidence-based project case study */
 .project-invitation{margin-top:35px;border-radius:18px;border:1px solid #c9dccb;background:#e8efe6;padding:30px;max-width:950px}.project-invitation .eyebrow{color:#51765b}.project-invitation p:not(.eyebrow){font-size:19px;max-width:740px;line-height:1.7;color:#305341}.project-invitation a{display:inline-flex;margin-top:12px;border-radius:30px;background:#173d33;color:#fff;padding:11px 18px;font-size:13px;font-weight:800}.project-invitation a:focus-visible{outline:3px solid #d1a75c;outline-offset:4px}@media(max-width:600px){.project-invitation{padding:21px}.project-invitation p:not(.eyebrow){font-size:16px}}
+
+/* Portrait fidelity: original supplied 299x673 JPEG, fully visible, never cropped or enlarged. */
+.story-image{display:flex;flex-direction:column;justify-content:center;align-items:center;width:100%;max-width:430px;min-height:0;overflow:visible;isolation:auto;background:transparent;border-radius:0}
+.story-image::before{content:none;display:none}
+.story-image img{position:static;inset:auto;display:block;flex:none;width:auto;max-width:100%;height:auto;max-height:none;object-fit:contain;margin:0 auto;border-radius:0;filter:none;transform:none}
+.story-image span{position:static;display:block;align-self:center;margin-top:12px;padding:0;background:transparent;color:#526d60;letter-spacing:2px}
+@media(max-width:800px){.story-image{min-height:0}}
+@media(max-width:520px){.story-image{min-height:0}}
