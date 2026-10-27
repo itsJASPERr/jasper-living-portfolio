@@ -84,7 +84,8 @@
       "imageAlt": "Mountain landscape and green hills at golden hour",
       "vision": "Crear un lugar de montaña donde hospitalidad, cultura y regeneración se fortalezcan mutuamente.",
       "evidence": "Sitio público y consultas de huéspedes disponibles; trabajo de huerta e integraciones operativas documentadas.",
-      "impact": "Un espacio concreto para la colaboración y experiencias vinculadas a la naturaleza. Falta medir adopción, ingresos y resultados ecológicos."
+      "impact": "Un espacio concreto para la colaboración y experiencias vinculadas a la naturaleza. Falta medir adopción, ingresos y resultados ecológicos.",
+      "invitation": "¿Estás explorando un retiro, hospitalidad regenerativa o una colaboración en las Sierras? Veamos dónde pueden encontrarse nuestros caminos."
     },
     {
       "slug": "magico-os",
@@ -95,18 +96,18 @@
       "symbol": "⌘",
       "tone": "clay",
       "status": "En desarrollo",
-      "summary": "Ecosistema emergente que integra reservas, comercio, identidad y tareas operativas, respetando la fuente de datos de cada módulo.",
+      "summary": "Una dirección de producto basada en módulos independientes para reservas, comercio, identidad y asistencia operativa. Cada módulo debería poder usarse y adquirirse por separado, sin depender de un servicio central multiinquilino.",
       "contribution": "Estrategia entre productos, límites entre sistemas, decisiones de integración, planificación técnica e implementación asistida por IA.",
       "roadmap": [
         {
           "title": "Mapear los productos e interfaces principales",
           "status": "done",
-          "detail": "Definir límites entre Mágico Auth, Bookings, Commerce, UI compartida y el asistente operativo."
+          "detail": "Aclarar los límites entre autenticación, reservas, comercio, interfaz compartida y asistente; definir módulos autocontenidos y desplegables por separado."
         },
         {
           "title": "Desarrollar bases de producto reutilizables",
           "status": "progress",
-          "detail": "Autenticación compartida, componentes multiplataforma, integraciones y despliegue modular."
+          "detail": "Alinear el código existente con módulos desplegables de manera independiente, contratos compartidos y una integración revisada de autenticación."
         },
         {
           "title": "Piloto en otra organización",
@@ -121,9 +122,10 @@
       ],
       "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1200&q=82",
       "imageAlt": "Digital collaboration and technology on a work desk",
-      "vision": "Acercar el software operativo a organizaciones pequeñas con propósito.",
+      "vision": "Acercar software práctico e instalable por separado a organizaciones con propósito, sin imponer una plataforma ni un modelo de negocio único.",
       "evidence": "Hay arquitectura y componentes compartidos para reservas, comercio, identidad y operaciones; los despliegues siguen en curso.",
-      "impact": "Una base para trabajar con menos fragmentación. Aún deben validarse la instalación externa y los beneficios medibles."
+      "impact": "Una base para trabajar con menos fragmentación. Aún deben validarse la instalación externa y los beneficios medibles.",
+      "invitation": "¿Tu organización necesita operaciones más simples? Podemos conversar sobre herramientas modulares adaptadas a tus procesos."
     },
     {
       "slug": "magico-bookings",
@@ -162,7 +164,8 @@
       "imageAlt": "Inviting hospitality accommodation",
       "vision": "Ayudar a espacios de hospitalidad y retiros a recibir huéspedes sin fricciones innecesarias.",
       "evidence": "Avanzaron funciones de reserva y pruebas; siguen pendientes la aprobación productiva y pruebas externas.",
-      "impact": "Podría reducir trabajo manual. No se declara adopción paga externa."
+      "impact": "Podría reducir trabajo manual. No se declara adopción paga externa.",
+      "invitation": "¿Gestionás un espacio, retiro o experiencia? Contame tus desafíos con las reservas y exploremos opciones."
     },
     {
       "slug": "raiz-sonora",
@@ -197,7 +200,8 @@
       "imageAlt": "Live music event and shared experience",
       "vision": "Reunir personas a través de la música y la naturaleza en las Sierras Grandes.",
       "evidence": "Se publicó la página del festival, información del programa y consultas por WhatsApp antes del 31 de octubre.",
-      "impact": "Una invitación concreta al encuentro. La asistencia y los resultados financieros deben registrarse después del evento."
+      "impact": "Una invitación concreta al encuentro. La asistencia y los resultados financieros deben registrarse después del evento.",
+      "invitation": "¿Estás creando un encuentro alrededor de la música, la cultura o la naturaleza? Me interesa explorar formas de conectar o colaborar."
     },
     {
       "slug": "huerta",
@@ -231,7 +235,8 @@
       "imageAlt": "Green plants growing in fertile soil",
       "vision": "Aprender del territorio mientras cultivamos un sistema alimentario de montaña resiliente.",
       "evidence": "Mapas de siembra, almácigos y auditoría de 54 archivos de foto/video aportan evidencia trazable.",
-      "impact": "Permite decidir mejor en campo; aún faltan métricas de cosecha, agua y suelo."
+      "impact": "Permite decidir mejor en campo; aún faltan métricas de cosecha, agua y suelo.",
+      "invitation": "¿Trabajás en una huerta, bosque comestible o proyecto regenerativo? Intercambiemos prácticas, observaciones y posibilidades."
     },
     {
       "slug": "earth-bridge-alliance",
@@ -265,19 +270,20 @@
       "imageAlt": "People spending time together outdoors",
       "vision": "Crear puentes duraderos entre comunidades e iniciativas regenerativas.",
       "evidence": "Se prepararon documentos fundacionales y el marco organizativo; falta verificar el avance administrativo.",
-      "impact": "Una posible estructura de colaboración intercultural responsable, pendiente de pilotos demostrados."
+      "impact": "Una posible estructura de colaboración intercultural responsable, pendiente de pilotos demostrados.",
+      "invitation": "¿Participás en una iniciativa comunitaria, intercultural o regenerativa? Conversemos sobre alianzas respetuosas y de beneficio mutuo."
     },
     {
       "slug": "living-practices",
       "name": "Prácticas Vivas",
-      "category": "MÚSICA · ARTESANÍA · CONEXIÓN",
-      "subtitle": "Música medicina, objetos ceremoniales, círculos de encuentro e integración consciente.",
-      "role": "Práctica creativa · facilitación",
+      "category": "MÚSICA · ARTESANÍA · CÍRCULOS · INTEGRACIÓN",
+      "subtitle": "Música medicina, tambores ceremoniales artesanales, círculos de encuentro e integración personal.",
+      "role": "Música medicina · instrumentos · facilitación · acompañamiento reflexivo",
       "symbol": "✺",
       "tone": "lilac",
       "status": "Práctica continua",
-      "summary": "Prácticas creativas centradas en las personas para explorar expresión, conexión y desarrollo consciente.",
-      "contribution": "Música, construcción de instrumentos, círculos y acompañamiento de integración.",
+      "summary": "Una práctica personal continua que reúne música, creación de instrumentos ceremoniales, círculos de encuentro, exploración de la conciencia y acompañamiento reflexivo no clínico para integrar experiencias significativas.",
+      "contribution": "Construcción de tambores ceremoniales, creación y práctica de música medicina, facilitación de círculos y acompañamiento individual para la reflexión e integración, incluyendo experiencias enteogénicas.",
       "roadmap": [
         {
           "title": "Desarrollar la práctica central",
@@ -287,22 +293,35 @@
         {
           "title": "Documentar propuestas públicas",
           "status": "progress",
-          "detail": "Aclarar formatos, destinatarios, límites y vías de contacto."
+          "detail": "Describir formatos de música y círculos, encargos de tambores y conversaciones individuales de integración no clínica, incluyendo límites y disponibilidad."
         },
         {
           "title": "Compartir encuentros y relatos seleccionados",
           "status": "planned",
-          "detail": "Publicar ejemplos y reflexiones con consentimiento y cuidado."
+          "detail": "Compartir relatos de música, artesanía y facilitación solo con permiso, contexto y respeto por la privacidad."
         }
       ],
       "image": "https://images.unsplash.com/photo-1516280440614-37939bbacd81?auto=format&fit=crop&w=1200&q=82",
       "imageAlt": "Music as an expression of human connection",
-      "vision": "Abrir espacios para la creatividad, la escucha, la exploración personal y la presencia compartida.",
-      "evidence": "La música medicina, la creación de instrumentos y los círculos forman parte de una práctica continua.",
-      "impact": "El impacto es principalmente cualitativo; futuros relatos deben respetar la privacidad y el consentimiento."
+      "vision": "Crear espacios atentos para escuchar, expresarse, vincularse e integrar experiencias significativas en la vida cotidiana.",
+      "evidence": "Son ámbitos de práctica personal establecidos. Aún faltan ejemplos públicos documentados de manera verificable, testimonios y detalles sobre los formatos de encuentro.",
+      "impact": "Se buscan resultados cualitativos: reflexión, creatividad y conexión. No es tratamiento clínico ni promesa de transformación; las experiencias compartidas requieren consentimiento explícito.",
+      "invitation": "¿Te interesa la música medicina, un tambor ceremonial artesanal, un círculo o una conversación de integración personal? Contame qué estás buscando."
     }
   ],
   "journal": [
+    {
+      "date": "27 OCT 2026",
+      "title": "Un mismo hilo detrás de distintas prácticas",
+      "description": "Unir la identidad personal y la bitácora de proyectos en un relato: tecnología, territorio, música, cultura y reflexión son prácticas distintas guiadas por preguntas relacionadas.",
+      "tags": [
+        "Identidad",
+        "Reflexión",
+        "Conexión"
+      ],
+      "outcome": "Dirección editorial aclarada; todavía falta ampliar los relatos y materiales visuales propios.",
+      "reflection": "¿Y si un portafolio ayudara a descubrir no solo lo que construyo, sino por qué lo hago y qué podríamos crear juntos?"
+    },
     {
       "date": "19–25 OCT 2026",
       "title": "Del desarrollo de sistemas al lanzamiento comercial",
