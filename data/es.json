@@ -1,54 +1,54 @@
 {
   "contactEmail": "itsjasperr@gmail.com",
   "week": {
-    "date": "19–25 OCT 2026",
-    "title": "Una semana de crear, cultivar y encontrarnos.",
-    "summary": "Un encuentro musical toma forma, las herramientas digitales se vuelven más útiles y la huerta de montaña sigue enseñándonos.",
+    "date": "2–8 NOV 2026",
+    "title": "De los sistemas modulares a la preparación operativa.",
+    "summary": "Se verificó infraestructura de identidad en producción, avanzaron reservas y pagos, y mejoró la visibilidad comercial y regenerativa. Integrar código no equivale a validar adopción.",
     "metrics": [
       {
-        "value": "8",
-        "label": "PR integrados",
-        "note": "Repositorios del conjunto de proyectos"
-      },
-      {
-        "value": "5",
-        "label": "Repositorios activos",
-        "note": "Actividad de ingeniería"
-      },
-      {
-        "value": "54",
-        "label": "Archivos de huerta revisados",
-        "note": "42 fotos · 12 videos"
+        "value": "91",
+        "label": "PR integradas",
+        "note": "No equivalen a 91 funciones lanzadas"
       },
       {
         "value": "1",
-        "label": "Festival lanzado",
-        "note": "Campaña comercial activa"
+        "label": "Servicio de identidad desplegado",
+        "note": "Directorio productivo y controles de acceso"
+      },
+      {
+        "value": "3",
+        "label": "Propuestas comerciales integradas",
+        "note": "Sin conversiones ni ingresos verificados"
+      },
+      {
+        "value": "1",
+        "label": "Issue Jira pasado a Done",
+        "note": "Los demás cambios no implican cierre"
       }
     ],
     "highlights": [
       {
-        "title": "Raíz Sonora",
-        "text": "Reuniendo música, comunidad y naturaleza en un nuevo encuentro.",
-        "status": "Tomando forma"
+        "title": "Identidad y acceso",
+        "text": "Directorio de Mágico Auth desplegado con verificaciones de salud y acceso sin autorización.",
+        "status": "Desplegado y verificado"
       },
       {
-        "title": "Mágico Bookings",
-        "text": "Facilitando que los espacios de encuentro reciban a las personas.",
-        "status": "En desarrollo"
+        "title": "Reservas y pagos",
+        "text": "Reconciliación Cucuru, correos, tarifas y controles de lanzamiento integrados; falta el corte a producción.",
+        "status": "Integrado · aceptación pendiente"
       },
       {
-        "title": "Pueblo Mágico",
-        "text": "Conectando hospitalidad, experiencias creativas y vida regenerativa.",
-        "status": "Creciendo"
+        "title": "Experiencia de huéspedes y equipo",
+        "text": "Bases de Companion y Staff Portal integradas, aún sin lanzamiento operativo confirmado.",
+        "status": "Bases integradas"
       },
       {
-        "title": "Huerta de montaña",
-        "text": "Observando, sembrando y aprendiendo de la tierra en Los Gigantes.",
-        "status": "En práctica"
+        "title": "Comercial y regeneración",
+        "text": "Landing de retiros, tres propuestas y novedades de participación en reforestación integradas.",
+        "status": "Contenido integrado"
       }
     ],
-    "reflection": "Mundos diferentes, un mismo hilo: crear condiciones para que las personas, las ideas y los territorios florezcan."
+    "reflection": "El siguiente hito no es contar más integraciones: es demostrar que las personas puedan reservar, pagar, colaborar y participar de forma confiable."
   },
   "projects": [
     {
@@ -95,7 +95,7 @@
       "role": "Estrategia de producto · arquitectura · desarrollo asistido por IA",
       "symbol": "⌘",
       "tone": "clay",
-      "status": "En desarrollo",
+      "status": "Plataforma modular · producción parcial",
       "summary": "Una dirección de producto basada en módulos independientes para reservas, comercio, identidad y asistencia operativa. Cada módulo debería poder usarse y adquirirse por separado, sin depender de un servicio central multiinquilino.",
       "contribution": "Estrategia entre productos, límites entre sistemas, decisiones de integración, planificación técnica e implementación asistida por IA.",
       "roadmap": [
@@ -123,8 +123,8 @@
       "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1200&q=82",
       "imageAlt": "Digital collaboration and technology on a work desk",
       "vision": "Acercar software práctico e instalable por separado a organizaciones con propósito, sin imponer una plataforma ni un modelo de negocio único.",
-      "evidence": "Hay arquitectura y componentes compartidos para reservas, comercio, identidad y operaciones; los despliegues siguen en curso.",
-      "impact": "Una base para trabajar con menos fragmentación. Aún deben validarse la instalación externa y los beneficios medibles.",
+      "evidence": "Directorio Auth verificado en producción; wiki MVP integrado; reservas, gateway y portales avanzados en código, sin operación integral verificada.",
+      "impact": "Mejores controles de lanzamiento y potencial simplificación operativa. Faltan medir reservas, pagos y adopción del equipo.",
       "invitation": "¿Tu organización necesita operaciones más simples? Podemos conversar sobre herramientas modulares adaptadas a tus procesos."
     },
     {
@@ -135,7 +135,7 @@
       "role": "Arquitectura · liderazgo de producto",
       "symbol": "▦",
       "tone": "forest",
-      "status": "Base del producto desarrollada",
+      "status": "Candidato a lanzamiento · corte pendiente",
       "summary": "Solución de reservas para múltiples organizaciones con configuración segura, reservas, inventario y pagos.",
       "contribution": "Arquitectura de reservas, criterios de aceptación, integración de sistemas y planificación comercial.",
       "roadmap": [
@@ -163,7 +163,7 @@
       "image": "https://images.unsplash.com/photo-1445019980597-93fa8acb246c?auto=format&fit=crop&w=1200&q=82",
       "imageAlt": "Inviting hospitality accommodation",
       "vision": "Ayudar a espacios de hospitalidad y retiros a recibir huéspedes sin fricciones innecesarias.",
-      "evidence": "Avanzaron funciones de reserva y pruebas; siguen pendientes la aprobación productiva y pruebas externas.",
+      "evidence": "Conciliación de pagos, correos transaccionales, aceptación de tarifas, migraciones y controles de inventario integrados; falta el corte a producción.",
       "impact": "Podría reducir trabajo manual. No se declara adopción paga externa.",
       "invitation": "¿Gestionás un espacio, retiro o experiencia? Contame tus desafíos con las reservas y exploremos opciones."
     },
@@ -310,6 +310,30 @@
     }
   ],
   "journal": [
+    {
+      "date": "2–8 NOV 2026",
+      "title": "De módulos conectados a lanzamientos controlados",
+      "description": "Se integraron controles para reservas, pagos y comunicación; se desplegó el directorio productivo de identidad; avanzaron portales para huéspedes y personal, propuestas de retiros y vías de participación en reforestación.",
+      "tags": [
+        "Liderazgo de producto",
+        "Arquitectura",
+        "Desarrollo comercial"
+      ],
+      "outcome": "91 PR integradas en Pueblo Mágico; verificaciones productivas de Auth exitosas. Siguen pendientes el corte de reservas, la activación de pagos y conversiones comerciales.",
+      "reflection": "Una plataforma sirve cuando la arquitectura, las operaciones y las personas pueden confiar en ella."
+    },
+    {
+      "date": "26 OCT–1 NOV 2026",
+      "title": "Construyendo bases entre productos y territorio",
+      "description": "Se integró el MVP de la wiki privada, controles de inventario para reservas, la base de donaciones y su visualización, páginas de eventos y avances en Cantario, SOMA CONSCIENTE y el portafolio.",
+      "tags": [
+        "Desarrollo asistido por IA",
+        "Gestión del conocimiento",
+        "Regeneración"
+      ],
+      "outcome": "16 PR de Pueblo Mágico integradas; wiki con navegación y búsqueda desarrollada. Faltan verificar donaciones reales, conversiones y resultados regenerativos en campo.",
+      "reflection": "Tanto el software como el territorio necesitan evidencias claras de lo que realmente cambió."
+    },
     {
       "date": "27 OCT 2026",
       "title": "Un mismo hilo detrás de distintas prácticas",

@@ -1,54 +1,54 @@
 {
   "contactEmail": "itsjasperr@gmail.com",
   "week": {
-    "date": "OCT 19–25, 2026",
-    "title": "Moments from a week of building, growing and gathering.",
-    "summary": "A music gathering is taking shape, digital tools are becoming more useful, and the mountain garden continues to teach us.",
+    "date": "NOV 2–8, 2026",
+    "title": "From modular systems to operational readiness.",
+    "summary": "Production identity infrastructure was verified, booking and payment systems advanced toward release, and retreat sales and regenerative participation became easier to discover. Code integration is not the same as production adoption.",
     "metrics": [
       {
-        "value": "8",
-        "label": "Pull requests merged",
-        "note": "Portfolio repositories"
-      },
-      {
-        "value": "5",
-        "label": "Active repositories",
-        "note": "Engineering activity"
-      },
-      {
-        "value": "54",
-        "label": "Huerta media reviewed",
-        "note": "42 photos · 12 videos"
+        "value": "91",
+        "label": "PRs merged",
+        "note": "GitHub integration, not 91 launched features"
       },
       {
         "value": "1",
-        "label": "Festival launch",
-        "note": "Commercial campaign live"
+        "label": "Identity service deployed",
+        "note": "Production directory and access checks"
+      },
+      {
+        "value": "3",
+        "label": "Sales proposals integrated",
+        "note": "Acceptance and revenue not yet measured"
+      },
+      {
+        "value": "1",
+        "label": "Jira issue moved to Done",
+        "note": "Other touched issues were not completed"
       }
     ],
     "highlights": [
       {
-        "title": "Raíz Sonora",
-        "text": "Bringing music, community and nature together through a new gathering.",
-        "status": "Coming together"
+        "title": "Identity & access",
+        "text": "Mágico Auth production directory deployed with successful health and unauthorized-access checks.",
+        "status": "Deployed & checked"
       },
       {
-        "title": "Mágico Bookings",
-        "text": "Making it easier for places of connection to welcome people.",
-        "status": "In development"
+        "title": "Bookings & payments",
+        "text": "Cucuru reconciliation, email, tariff and release safeguards merged; production cutover still pending.",
+        "status": "Merged · acceptance pending"
       },
       {
-        "title": "Pueblo Mágico",
-        "text": "Connecting hospitality, creative experiences and regenerative living.",
-        "status": "Growing"
+        "title": "Guest and staff journeys",
+        "text": "Companion and Staff Portal foundations merged, without claiming operational launch.",
+        "status": "Foundations merged"
       },
       {
-        "title": "Mountain garden",
-        "text": "Observing, planting and learning from the land in Los Gigantes.",
-        "status": "In practice"
+        "title": "Commercial & regenerative visibility",
+        "text": "Retreat landing page, three tailored proposals and reforestation participation updates integrated.",
+        "status": "Content integrated"
       }
     ],
-    "reflection": "Different worlds, one thread: creating the conditions for people, ideas and places to flourish."
+    "reflection": "The next milestone is not another integration count: it is demonstrating that people can reliably book, pay, collaborate and participate."
   },
   "projects": [
     {
@@ -95,7 +95,7 @@
       "role": "Product strategy · architecture · AI-assisted development",
       "symbol": "⌘",
       "tone": "clay",
-      "status": "In development",
+      "status": "Modular platform · partial production",
       "summary": "A product direction for modular, independently deployable tools covering reservations, commerce, identity and operational assistance. Each module should remain usable and purchasable separately—not depend on one central multi-tenant service.",
       "contribution": "Cross-product strategy, system boundaries, integration decisions, technical backlog and AI-assisted implementation.",
       "roadmap": [
@@ -123,8 +123,8 @@
       "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1200&q=82",
       "imageAlt": "Digital collaboration and technology on a work desk",
       "vision": "Give purpose-driven organizations practical, independently deployable software without forcing them into one platform or business model.",
-      "evidence": "Architecture and shared components exist across reservations, commerce, identity and operations; deployment work remains in progress.",
-      "impact": "A foundation for less fragmented work. A repeatable external installation and measurable user benefit still need validation.",
+      "evidence": "Auth directory verified in production; wiki MVP merged; booking, gateway and portals substantially advanced in code but not yet fully operational.",
+      "impact": "Stronger release controls and potential operational simplification. Real bookings, payment success and team adoption still require measurement.",
       "invitation": "Building a purpose-driven organization that needs simpler operations? We can discuss modular tools that fit your own processes."
     },
     {
@@ -135,7 +135,7 @@
       "role": "Architecture · product leadership",
       "symbol": "▦",
       "tone": "forest",
-      "status": "Product foundation developed",
+      "status": "Release candidate · cutover pending",
       "summary": "A bookings solution designed to support multiple organizations with secure configuration, reservations, inventory and payments.",
       "contribution": "Reservation architecture, acceptance criteria, system integration and commercialization planning.",
       "roadmap": [
@@ -163,7 +163,7 @@
       "image": "https://images.unsplash.com/photo-1445019980597-93fa8acb246c?auto=format&fit=crop&w=1200&q=82",
       "imageAlt": "Inviting hospitality accommodation",
       "vision": "Help hospitality and retreat teams welcome guests without unnecessary coordination friction.",
-      "evidence": "Reservation functionality and tests have advanced; production approval and external tenant testing remain open.",
+      "evidence": "Payment reconciliation, transactional emails, tariff acceptance, migration safeguards and booking integrity fixes merged; production cutover not yet completed.",
       "impact": "Could reduce manual booking work. No external paid adoption is claimed.",
       "invitation": "Running a space, retreat or experience? Share the booking challenges you're facing and let's explore possible solutions."
     },
@@ -310,6 +310,30 @@
     }
   ],
   "journal": [
+    {
+      "date": "NOV 2–8, 2026",
+      "title": "From connected modules to controlled releases",
+      "description": "Integrated booking, payment and guest-communication safeguards; deployed the shared production identity directory; built foundations for customer and staff portals; added retreat sales proposals and reforestation participation paths.",
+      "tags": [
+        "Product leadership",
+        "Systems architecture",
+        "Commercial enablement"
+      ],
+      "outcome": "91 PRs merged across Pueblo Mágico repositories; Mágico Auth production checks passed. Reservations cutover, payment activation and commercial conversion are not yet verified.",
+      "reflection": "A platform is useful only when architecture, operations and people can rely on it."
+    },
+    {
+      "date": "OCT 26–NOV 1, 2026",
+      "title": "Building foundations across products and place",
+      "description": "Merged the private Mágico Wiki MVP, strengthened reservation inventory safety, integrated a donation ledger and public reforestation progress groundwork, updated event pages, and advanced Cantario, SOMA CONSCIENTE and the living portfolio.",
+      "tags": [
+        "AI-assisted development",
+        "Knowledge systems",
+        "Regeneration"
+      ],
+      "outcome": "16 Pueblo Mágico PRs merged; wiki search and navigation delivered in code. Live donation receipts, booking conversion and field regeneration outcomes remain unverified.",
+      "reflection": "The work spans software and land—but both require a reliable record of what actually changed."
+    },
     {
       "date": "OCT 27, 2026",
       "title": "One thread behind the different kinds of work",
